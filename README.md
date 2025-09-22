@@ -1,4 +1,4 @@
-CEQT Global Services Ltd Website 🌐
+**CEQT Global Services Ltd Website 🌐**
 
 A responsive multipage corporate website for CEQT Global Services Ltd, built with HTML5, CSS3, and JavaScript and deployed via GitHub Pages.
 
